@@ -7,3 +7,7 @@ One can write demo code and test it before implementing it to the real project u
 
 Run coding.html file<br>
 Write your code and view changes
+
+## Testing
+
+Site is visible at: https://painlessdeath09.github.io/DynamicCodeEditor/

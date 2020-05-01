@@ -10,4 +10,5 @@ Write your code and view changes
 
 ## Testing
 
-Site is visible at: https://painlessdeath09.github.io/DynamicCodeEditor/
+Barebones site is visible at: https://painlessdeath09.github.io/DynamicCodeEditor/
+However, ensure to locally run the site to enable maximum functionality
